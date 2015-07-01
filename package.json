@@ -1,0 +1,25 @@
+{
+  "name": "metalsmith-timer",
+  "version": "0.0.1",
+  "description": "A metalsmith plugin to output timings for each step in your build path.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deltamualpha/metalsmith-timer"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "timing",
+    "debug"
+  ],
+  "author": "David Ashby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deltamualpha/metalsmith-timer/issues"
+  },
+  "homepage": "https://github.com/deltamualpha/metalsmith-timer",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
